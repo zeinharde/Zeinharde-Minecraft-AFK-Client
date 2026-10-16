@@ -1,8 +1,8 @@
 {
-  "client_name": "Zeinharde's AFK Client",
-  "host": "mc.soulcraft.tc",
+  "client_name": "Zeinharde AFK Client",
+  "host": "cookiesmp.my.id",
   "port": 25565,
-  "username": "SausageKnight",
+  "username": "ironmang11",
   "version": "1.21.11",
   "auth": "offline",
   "afk_interval": 30000
